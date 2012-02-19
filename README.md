@@ -19,4 +19,4 @@ The script was tested with git v1.7.9 and requires at least v1.7.8.
 Credits
 -------
 
-Thanks to Steffen Gebert for helping out when I ran into trouble setting up the commit message hooks for the submodules.
+Thanks to [Steffen Gebert](https://twitter.com/StGebert) for helping out when I ran into trouble setting up the commit message hooks for the submodules.
