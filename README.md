@@ -9,7 +9,7 @@ Usage
 -----
 
 Just call `./typo3clone.sh`
-The script will ask you for your typo3 username to configure the review workflow. It will then create the clone in `./typo3_src-git/`.
+The script will ask you for your typo3.org username to configure the review workflow. It will then create the clone in `./typo3_src-git/`.
 
 Requirements
 ------------
